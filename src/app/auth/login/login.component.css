@@ -1,0 +1,20 @@
+h1.text-center {
+  font-family: 'Raleway', sans-serif;
+  font-size: 72px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #025a38;
+}
+
+.login-form {
+  background-color: #FFB900;
+}
+
+.form-label {
+  color: #0F4C5C
+}
+
+.bottom-text {
+  color: #0F4C5C
+}
